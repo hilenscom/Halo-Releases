@@ -4,7 +4,7 @@ Tus aplicaciones y enlaces, en tu propio espacio. Organízalos con perfiles, fav
 
 Este repositorio contiene las descargas y la documentación pública. El código fuente se mantiene en un repositorio privado de Hilens.
 
-**Estado: preparación de la primera versión pública.** Los paquetes definitivos aparecerán en [Releases](https://github.com/hilenscom/Halo-Releases/releases) después de las comprobaciones de instalación. Halo todavía no se anuncia como aprobado por Chrome Web Store.
+**Estado: candidata 1.0.2 disponible para pruebas.** Puedes descargarla en [Halo 1.0.2 — versión de pruebas](https://github.com/hilenscom/Halo-Releases/releases/tag/v1.0.2). Todavía no es el lanzamiento estable ni está aprobada en Chrome Web Store. Las pruebas de Windows, instalación en un Mac limpio y sincronización entre clientes instalados siguen pendientes. El código fuente continúa siendo privado.
 
 - [Instalación, actualizaciones y ayuda](HELP.md)
 - [Privacidad](PRIVACY.md)

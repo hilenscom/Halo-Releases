@@ -6,7 +6,9 @@ La publicación en Chrome Web Store está en preparación. Cuando la ficha esté
 
 ## Aplicación de escritorio
 
-En Halo, abre **⋯ → Descargar aplicación…** y elige tu sistema. Las descargas se publican exclusivamente en [Hilens / Halo-Releases](https://github.com/hilenscom/Halo-Releases/releases).
+La [candidata 1.0.2](https://github.com/hilenscom/Halo-Releases/releases/tag/v1.0.2) está disponible para pruebas. Descarga los archivos directamente desde esa página. Las descargas se publican exclusivamente en [Hilens / Halo-Releases](https://github.com/hilenscom/Halo-Releases/releases).
+
+El menú **⋯ → Descargar aplicación…** ya permite elegir sistema, pero sus enlaces de última versión se activarán cuando exista un lanzamiento estable. La candidata de pruebas todavía no activa ese canal.
 
 - **Mac Apple Silicon:** para chips M1, M2, M3, M4 y posteriores.
 - **Mac Intel:** para procesadores Intel. Puedes consultarlo en  → Acerca de este Mac.
@@ -18,7 +20,11 @@ Esta distribución de prueba no está firmada con un certificado de editor. Wind
 
 ## Actualizaciones
 
-Chrome actualiza la extensión a través de su tienda. La aplicación instalada de Windows comprueba versiones al arrancar y cada seis horas; el circuito de actualización necesita validación entre dos versiones antes del lanzamiento definitivo. En Mac, el ZIP sin firma **no se sustituye automáticamente**: Halo avisa cuando hay otra versión, y debes descargarla y reemplazar la aplicación. Tus enlaces permanecen en tu cuenta.
+Chrome actualiza la extensión a través de su tienda. La candidata 1.0.2 incorpora actualizaciones automáticas: la aplicación comprueba versiones al arrancar y cada seis horas, descarga las mejoras y las instala al salir. En Mac, salir significa **Halo → Salir de Halo** o **⌘Q**; cerrar solo la ventana mantiene la aplicación abierta. Tus enlaces permanecen en tu cuenta.
+
+La candidata está publicada como pre-release: todavía no hay un canal estable activo. Por eso no debe interpretarse una comprobación sin actualización disponible como una actualización completada.
+
+En Mac, los paquetes y la información de actualización llevan una firma propia de Hilens; Halo rechaza los archivos alterados. Esto no sustituye la autorización de macOS para abrir por primera vez una aplicación distribuida fuera de la tienda. La instalación y actualización en equipos limpios siguen pendientes de validación antes de la publicación definitiva.
 
 ## Copias, sincronización y soporte
 
